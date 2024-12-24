@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "AI_car.sln"
+    "dotnet.defaultSolution": "AI_Cars_.sln"
 }
